@@ -6,7 +6,7 @@ https://drive.google.com/file/d/1XBirQDQrEM9S7gKz0cdXaU_oAsmHb5po/view?usp=shari
 ```
 ## Fork My page:
 ```
-git clone https://github.com/Darkwebnew/Django-2
+git clone https://github.com/Darkwebnew/mysite.git
 ```
 
 ```
