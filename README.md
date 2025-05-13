@@ -1,9 +1,10 @@
 # Auto-grader: Django Tutorial part 2
 
 # VIDEO LINK:
-```
+
 https://drive.google.com/file/d/1XBirQDQrEM9S7gKz0cdXaU_oAsmHb5po/view?usp=sharing
-```
+
+
 ## Fork My page:
 ```
 git clone https://github.com/Darkwebnew/mysite.git
